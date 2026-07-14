@@ -1,3 +1,2 @@
-# this is first version 1.1
+# this is first version 1.2
 
-git init
